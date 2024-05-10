@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hw_m3_1</string>
+    <string name="activity2">.SecondActivity</string>
+</resources>
